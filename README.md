@@ -1,3 +1,6 @@
 ### NPX CARD: Becode Project
 
-> npx julouis
+
+# Follow the following instruction and be amazed by the power of the little pony
+
+> $ npx julouis
