@@ -3,6 +3,7 @@
     "boxen": "^5.0.1",
     "chalk": "^4.1.1",
     "cli-boxes": "^3.0.0",
-    "term-img": "^5.0.0"
+    "term-img": "^5.0.0",
+    "terminal-image": "^1.2.1"
   }
 }
