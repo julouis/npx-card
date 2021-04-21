@@ -1,24 +1,20 @@
 {
-  "name": "@richyden/richy",
+  "name": "julouis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "richy": "./index.js"
+    "julouis": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Richyden/npx-card.git"
+    "url": "https://github.com/julouis/npx-card.git"
   },
-  "author": "",
+  "author": "Julien Louis",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Richyden/npx-card/issues"
-  },
-  "homepage": "https://github.com/Richyden/npx-card#readme",
   "dependencies": {
     "boxen": "^5.0.1",
     "chalk": "^4.1.1",
